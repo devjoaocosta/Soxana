@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"battlerName":"Soxana","characterIndex":0,"characterName":"Soxana","classId":1,"equips":[1,0,0,3,4],"faceIndex":0,"faceName":"Soxana","traits":[],"initialLevel":10,"maxLevel":99,"name":"Soxana","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"b","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"c","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"d","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"Soxana","characterIndex":0,"characterName":"Soxana","classId":1,"equips":[1,0,0,3,4],"faceIndex":0,"faceName":"Soxana","traits":[{"code":51,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Soxana","nickname":"A pirata","note":"","profile":""},
+{"id":2,"battlerName":"Agamenon","characterIndex":0,"characterName":"Agamenon","classId":2,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"Agamenon","traits":[{"code":51,"dataId":1,"value":1},{"code":43,"dataId":4,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Agamenon","nickname":"O Ladino","note":"","profile":""},
+{"id":3,"battlerName":"Cornus","characterIndex":0,"characterName":"Cornus","classId":3,"equips":[3,0,0,3,4],"faceIndex":3,"faceName":"Cornus","traits":[{"code":51,"dataId":6,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Cornus","nickname":"O Mago","note":"","profile":""},
+{"id":4,"battlerName":"Saori","characterIndex":0,"characterName":"Saori","classId":4,"equips":[4,0,0,3,0],"faceIndex":1,"faceName":"Saori","traits":[{"code":51,"dataId":7,"value":1},{"code":51,"dataId":8,"value":1},{"code":51,"dataId":9,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Saori","nickname":"A Patrulheira","note":"","profile":""}
 ]

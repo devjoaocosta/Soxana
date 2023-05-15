@@ -1,6 +1,7 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Introdução","order":1,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":2,"expanded":true,"name":"mapa dois","order":2,"parentId":1,"scrollX":832,"scrollY":640},
-{"id":3,"expanded":false,"name":"Covil Goblin","order":3,"parentId":2,"scrollX":0,"scrollY":0}
+{"id":1,"expanded":true,"name":"Introdução","order":1,"parentId":0,"scrollX":655.2,"scrollY":368.8},
+{"id":2,"expanded":true,"name":"Taverna","order":3,"parentId":3,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":true,"name":"Cidade","order":2,"parentId":1,"scrollX":816,"scrollY":640},
+{"id":4,"expanded":false,"name":"Patio","order":4,"parentId":3,"scrollX":832,"scrollY":640}
 ]
