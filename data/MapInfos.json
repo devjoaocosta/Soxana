@@ -1,7 +1,8 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Introdução","order":1,"parentId":0,"scrollX":655.2,"scrollY":368.8},
-{"id":2,"expanded":true,"name":"Taverna","order":3,"parentId":3,"scrollX":832,"scrollY":640},
-{"id":3,"expanded":true,"name":"Cidade","order":2,"parentId":1,"scrollX":816,"scrollY":640},
-{"id":4,"expanded":false,"name":"Patio","order":4,"parentId":3,"scrollX":832,"scrollY":640}
+{"id":2,"expanded":true,"name":"Taverna","order":3,"parentId":3,"scrollX":819,"scrollY":461},
+{"id":3,"expanded":true,"name":"Cidadela","order":2,"parentId":1,"scrollX":811,"scrollY":640},
+{"id":4,"expanded":false,"name":"Patio","order":4,"parentId":3,"scrollX":893.4545454545455,"scrollY":502.90909090909093},
+{"id":5,"expanded":false,"name":"Palacio","order":5,"parentId":3,"scrollX":893.4545454545455,"scrollY":502.90909090909093}
 ]
