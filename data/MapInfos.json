@@ -1,11 +1,11 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Introdução","order":1,"parentId":0,"scrollX":1084,"scrollY":633},
-{"id":2,"expanded":true,"name":"Taverna","order":3,"parentId":3,"scrollX":650.4,"scrollY":379.8},
-{"id":3,"expanded":true,"name":"Cidadela","order":2,"parentId":1,"scrollX":640.8,"scrollY":1156.2},
-{"id":4,"expanded":false,"name":"Patio","order":4,"parentId":3,"scrollX":640.8,"scrollY":628.1999999999999},
-{"id":5,"expanded":true,"name":"Palacio","order":5,"parentId":3,"scrollX":640.8,"scrollY":580.1999999999999},
-{"id":6,"expanded":false,"name":"Sala do Trono","order":6,"parentId":5,"scrollX":640.8,"scrollY":388.2},
-{"id":7,"expanded":true,"name":"Floresta","order":7,"parentId":1,"scrollX":728.4,"scrollY":370.2},
-{"id":8,"expanded":false,"name":"caverna","order":8,"parentId":7,"scrollX":799.1999999999999,"scrollY":799.8}
+{"id":1,"expanded":true,"name":"Introdução","order":1,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":2,"expanded":true,"name":"Taverna","order":3,"parentId":3,"scrollX":819,"scrollY":461},
+{"id":3,"expanded":true,"name":"Cidadela","order":2,"parentId":1,"scrollX":811,"scrollY":755},
+{"id":4,"expanded":false,"name":"Patio","order":4,"parentId":3,"scrollX":811,"scrollY":547},
+{"id":5,"expanded":true,"name":"Palacio","order":5,"parentId":3,"scrollX":811,"scrollY":499},
+{"id":6,"expanded":false,"name":"Sala do Trono","order":6,"parentId":5,"scrollX":893.4545454545455,"scrollY":502.90909090909093},
+{"id":7,"expanded":true,"name":"Floresta","order":7,"parentId":1,"scrollX":811,"scrollY":979},
+{"id":8,"expanded":false,"name":"Caverna","order":8,"parentId":7,"scrollX":811,"scrollY":461}
 ]
