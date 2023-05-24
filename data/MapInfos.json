@@ -2,10 +2,11 @@
 null,
 {"id":1,"expanded":true,"name":"Introdução","order":1,"parentId":0,"scrollX":819,"scrollY":461},
 {"id":2,"expanded":true,"name":"Taverna","order":3,"parentId":3,"scrollX":819,"scrollY":461},
-{"id":3,"expanded":true,"name":"Cidadela","order":2,"parentId":1,"scrollX":811,"scrollY":1075},
+{"id":3,"expanded":true,"name":"Cidadela","order":2,"parentId":1,"scrollX":811,"scrollY":461},
 {"id":4,"expanded":false,"name":"Patio","order":4,"parentId":3,"scrollX":811,"scrollY":461},
-{"id":5,"expanded":true,"name":"Palacio","order":5,"parentId":3,"scrollX":811,"scrollY":499},
+{"id":5,"expanded":true,"name":"Palacio","order":5,"parentId":3,"scrollX":811,"scrollY":461},
 {"id":6,"expanded":false,"name":"Sala do Trono","order":6,"parentId":5,"scrollX":819,"scrollY":461},
-{"id":7,"expanded":true,"name":"Floresta","order":7,"parentId":1,"scrollX":811,"scrollY":461},
-{"id":8,"expanded":false,"name":"Caverna","order":8,"parentId":7,"scrollX":811,"scrollY":721}
+{"id":7,"expanded":true,"name":"Floresta","order":8,"parentId":9,"scrollX":811,"scrollY":503},
+{"id":8,"expanded":false,"name":"Caverna","order":9,"parentId":7,"scrollX":811,"scrollY":721},
+{"id":9,"expanded":true,"name":"Caminho","order":7,"parentId":1,"scrollX":811,"scrollY":835}
 ]
