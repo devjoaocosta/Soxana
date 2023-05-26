@@ -7,7 +7,8 @@ null,
 {"id":5,"expanded":true,"name":"Palacio","order":5,"parentId":3,"scrollX":811,"scrollY":461},
 {"id":6,"expanded":false,"name":"Sala do Trono","order":6,"parentId":5,"scrollX":819,"scrollY":461},
 {"id":7,"expanded":true,"name":"Floresta","order":9,"parentId":9,"scrollX":811,"scrollY":461},
-{"id":8,"expanded":false,"name":"Caverna","order":10,"parentId":7,"scrollX":811,"scrollY":979},
+{"id":8,"expanded":true,"name":"Caverna","order":10,"parentId":7,"scrollX":811,"scrollY":979},
 {"id":9,"expanded":true,"name":"Caminho","order":8,"parentId":1,"scrollX":811,"scrollY":835},
-{"id":10,"expanded":false,"name":"carrinho","order":7,"parentId":3,"scrollX":819,"scrollY":461}
+{"id":10,"expanded":false,"name":"carrinho","order":7,"parentId":3,"scrollX":819,"scrollY":461},
+{"id":11,"expanded":false,"name":"Labirinto","order":11,"parentId":8,"scrollX":811,"scrollY":461}
 ]
